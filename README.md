@@ -1,6 +1,6 @@
 Vzhuh Meme Generator for Telegram
 ===================================
-**TL;DR.** This is a simplistic [Telegram](https://telegram.org/) bot example. It takes the text sent to it, and sends back an image of a magic cat saying this text. To be hosted on Google App Engine.
+**TL;DR.** This is a simplistic [Telegram](https://telegram.org/) bot example. The demo is at http://telegram.me/vzh_bot. It takes the text sent to it, and sends back an image of a magic cat saying this text. To be hosted on Google App Engine.
 
 ![Output example](https://img-fotki.yandex.ru/get/195771/10605357.9/0_92008_94ebff6a_orig.png)
 
